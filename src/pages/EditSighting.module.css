@@ -1,0 +1,13 @@
+.section-edit {
+  padding: 2.4rem 1.2rem;
+  text-align: center;
+}
+
+.edit-form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1rem 0.6rem;
+
+  margin-top: 1.2rem;
+}
